@@ -2,7 +2,7 @@
 
 platform :ios, '10.0'
 
-target 'C:\Users\recktenwaldf\Documents\Phonegap\ActivityTracker20200427\build\platforms\ios\Mondi Activity Tracker' do
-	project 'C:\Users\recktenwaldf\Documents\Phonegap\ActivityTracker20200427\build\platforms\ios\Mondi Activity Tracker.xcodeproj'
+target 'Mondi Activity Tracker' do
+	project 'Mondi Activity Tracker.xcodeproj'
 
 end
